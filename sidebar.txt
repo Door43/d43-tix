@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tix:home|Door43 (tix)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tix|d43-tix repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tix/archive/master.zip|d43-tix.zip]]
+
+**Recent Changes**
+{{changes>ns = tix}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tix|Ethnologue data]]
+
